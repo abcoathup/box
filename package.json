@@ -1,0 +1,28 @@
+{
+  "name": "box",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abcoathup/box.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abcoathup/box/issues"
+  },
+  "homepage": "https://github.com/abcoathup/box#readme",
+  "dependencies": {
+    "@openzeppelin/truffle-upgrades": "^1.1.0",
+    "truffle": "^5.1.47"
+  },
+  "devDependencies": {
+    "@truffle/hdwallet-provider": "^1.1.0",
+    "chai": "^4.2.0"
+  }
+}
